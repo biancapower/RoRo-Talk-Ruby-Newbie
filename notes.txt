@@ -1,0 +1,5 @@
+- give examples from my experience learning Ruby / as a beginner coder
+  - do this for each point I make
+
+• relate it to Ruby
+• relate it to my personal experience
