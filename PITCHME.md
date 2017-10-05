@@ -1,12 +1,11 @@
-# Introduction
+# Ruby Newbie
 
-+++
+## Bianca Power
+BEd(Primary)(Hons), PhD (Education)
 
-## Who am I?
-- Bianca Power
-- Bachelor of Education (Primary) (Honours) / PhD (Education)
-- [] Twitter
-- [] Github
+[] Twitter
+[] Github
+[] LinkedIn
 
 +++
 
