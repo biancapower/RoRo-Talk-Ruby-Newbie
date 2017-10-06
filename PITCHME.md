@@ -55,7 +55,7 @@ Note:
 +++
 ###### Thinking like a programmer
 
-![]()
+![coding dog](https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif)
 
 Note:
 * thinking like a programmer (logic)
