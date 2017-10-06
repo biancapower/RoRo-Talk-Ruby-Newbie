@@ -1,11 +1,12 @@
 # Ruby Newbie
 
-## Bianca Power
+#### Bianca Power
 BEd(Primary)(Hons), PhD (Education)
 
 ![Twitter](/images/twitter.png) @20by31
 ![Github](/images/github.png) biancapower
 ![LinkedIn](/images/linkedin.png) drbiancapower
+![Website]()
 
 Note:
 * Give a brief spiel about myself
@@ -219,7 +220,7 @@ Note:
 
 ## Be an active learner
 
-![hugh laurie typing](https://media.giphy.com/media/cg5FwpvDmhIcM/giphy.gif)
+![hugh laurie typing](https://media.giphy.com/media/cg5FwpvDmhIcM/giphy.gif) | - Some text here
 
 Note:
 Being spoon-fed isn't going to get you there - you have to figure it out for yourself
@@ -320,4 +321,6 @@ Note:
 
 ---
 
-## Final Slide
+## Questions?
+
+![ron weasley ask me anything](https://media.giphy.com/media/W6hcbqOZ00QhO/giphy.gif)
