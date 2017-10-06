@@ -66,7 +66,7 @@ Note:
 +++
 ###### What have I done wrong!?
 
-![bugs](https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif)
+![computer fail](https://media.giphy.com/media/11kEuHSQAXXiGQ/giphy.gif)
 
 Note:
 * can be hard to see what you've done wrong, when what you've done makes sense to you
