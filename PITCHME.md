@@ -14,10 +14,10 @@ Note:
 
 ## What I'm going to talk about
 
-* Ruby Newbie - how's it feel? |
-* Challenges |
-* Resources |
-* Educator's perspective |
+- Ruby Newbie - how's it feel? |
+- Challenges |
+- Resources |
+- Educator's perspective |
 
 Note:
 * What this talk is about / what I'll cover in this talk
