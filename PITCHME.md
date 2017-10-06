@@ -3,9 +3,9 @@
 ## Bianca Power
 BEd(Primary)(Hons), PhD (Education)
 
-![Twitter](/images/twitter.png)
-![Github](/images/github.png)
-![LinkedIn](/images/linkedin.png)
+![Twitter](https://imageog.flaticon.com/icons/png/512/23/23931.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF) @20by31
+![Github](/images/github.png) biancapower
+![LinkedIn](/images/linkedin.png) drbiancapower
 
 Note:
 * Give a brief spiel about myself
