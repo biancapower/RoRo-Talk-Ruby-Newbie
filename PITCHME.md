@@ -221,36 +221,23 @@ Note:
 ## Be an active learner
 
 ![hugh laurie typing](https://media.giphy.com/media/cg5FwpvDmhIcM/giphy.gif)
-
+- Actually write code |
+- Break stuff |
+- Seek to understand |
+- Practice |
 
 Note:
 Being spoon-fed isn't going to get you there - you have to figure it out for yourself
 
-+++
+* Actually write code
+  * active learning, not passive
+    * don't just watch others doing it
+    * don't just copy what others have done, create your own version that is in some way different
 
-### Actually write code
-
-Note:
-* active learning, not passive
-  * don't just watch others doing it
-  * don't just copy what others have done, create your own version that is in some way different
-
-+++
-
-### Break stuff
+* Practice
+  * Practice may not make perfect, but it does mean you won't have to start from scratch again next time
 
 +++
-
-### Seek to understand, not just copy and paste
-
-+++
-
-### Practice
-
-Note:
-* Practice may not make perfect, but it does mean you won't have to start from scratch again next time
-
----
 
 ## Find your interest
 
