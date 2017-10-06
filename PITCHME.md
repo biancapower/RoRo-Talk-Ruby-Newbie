@@ -242,70 +242,52 @@ Being spoon-fed isn't going to get you there - you have to figure it out for you
 ## Find your interest
 
 ![moss interested it crowd](https://media.giphy.com/media/3oKIPnbKgN3bXeVpvy/giphy.gif)
-
-+++
-
-### Love to learn
-
-Note:
-* lifelong learner
-* desire to learn
-
-+++
-
-### Make it interesting
+- Love to learn |
+- Make it interesting |
+- Gamification |
 
 Note:
-* work on something you have an interest in
-* leveraging the power of gems
+* Love to learn
+  * lifelong learner
+  * desire to learn
+
+* Make it interesting
+  * work on something you have an interest in
+  * leveraging the power of gems
+
+* Gamification
+  * Codewars
 
 +++
-
-### Gamification
-
-Note:
-* Codewars
-
----
 
 ## Work with others
 
 ![social it crowd](https://media.giphy.com/media/NgAzg4M6O6EtG/giphy.gif)
-
-+++
-### Teach others
-
-Note:
-* forces you to articulate your understanding, which requires you to think in different ways / think it through, leading to a deeper understanding
-* the person you are teaching it to will ask you questions, leading to avenues of the topic you may not have explored on your own
-
-+++
-
-### Learn from others
+- Teach others |
+- Learn from others |
+- Share with others |
+- Play with others |
 
 Note:
-* 30 of us in the same class, exposed to the same information - we'll each
-* if you dig deep enough, (pretty much) anyone will know something you don't, or understand something better than you do
-  * at the very least there will be something that they can explain to you from a different angle to your own, which will increase your understanding of the topic
-* go to meetups and talks, and actually listen and engage with them
+* Teach others
+  * forces you to articulate your understanding, which requires you to think in different ways / think it through, leading to a deeper understanding
+  * the person you are teaching it to will ask you questions, leading to avenues of the topic you may not have explored on your own
 
-+++
+* Learn from others
+  * 30 of us in the same class, exposed to the same information - we'll each
+  * if you dig deep enough, (pretty much) anyone will know something you don't, or understand something better than you do
+    * at the very least there will be something that they can explain to you from a different angle to your own, which will increase your understanding of the topic
+  * go to meetups and talks, and actually listen and engage with them
 
-### Share with others
+* Share with others
+  * slack
+    * kind of a more passive version of "teach others"
+    * also learning from others, but in a less face-to-face way
 
-Note:
-* slack
-  * kind of a more passive version of "teach others"
-  * also learning from others, but in a less face-to-face way
-
-+++
-
-### Play (with others)
-
-Note:
-* Codewars
-* (other things like codewars)
-* friendly competition to achieve something
+* Play (with others)
+  * Codewars
+  * (other things like codewars)
+  * friendly competition to achieve something
 
 ---
 
