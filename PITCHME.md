@@ -1,12 +1,12 @@
 # Ruby Newbie
 
-#### Bianca Power
+### Bianca Power
 BEd(Primary)(Hons), PhD (Education)
 
 ![Twitter](/images/twitter.png) @20by31
 ![Github](/images/github.png) biancapower
 ![LinkedIn](/images/linkedin.png) drbiancapower
-![Website]()
+![Website]() http://biancapower.herokuapp.com/
 
 Note:
 * Give a brief spiel about myself
