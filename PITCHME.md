@@ -63,7 +63,14 @@ Note:
 
 ## What you don't know
 
-* Where do I start?
++++
+
+###### Where do I start?
+
+![lost](https://media.giphy.com/media/mPytjcsG3XS4o/giphy.gif)
+
++++
+
 * Too many options
 * That'll be easy! (famous last words)
 * I'll just ask Google... ummmmm
