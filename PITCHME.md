@@ -14,7 +14,7 @@ Note:
 
 ## What I'm going to talk about
 
-* Ruby Newbie - how's it feel?
+* Ruby Newbie - how's it feel? |
 * Challenges |
 * Resources |
 * Educator's perspective |
@@ -27,7 +27,7 @@ Note:
 ---
 # How's it feel?
 
-* Challenging
+* Challenging |
 * Empowering |
 * Exhausting |
 * Rewarding |
