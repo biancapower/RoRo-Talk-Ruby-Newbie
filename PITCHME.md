@@ -27,12 +27,12 @@ Note:
 ---
 # How's it feel?
 
-* Challenging |
-* Empowering |
-* Exhausting |
-* Rewarding |
-* Frustrating |
-* Fun! |
+- Challenging |
+- Empowering |
+- Exhausting |
+- Rewarding |
+- Frustrating |
+- Fun! |
 
 Note:
 Consider separating each onto its own slide and adding an appropriate image
@@ -44,18 +44,31 @@ Consider separating each onto its own slide and adding an appropriate image
 
 ## A whole new language
 
-* Computer isn't forgiving
-* Thinking like a programmer
-* What have I done wrong!?
++++
+###### Your computer is a grammar nazi
+
+![grammar nazi owls](https://media.giphy.com/media/JEIRAmTTfUgYE/giphy.gif)
 
 Note:
 * it's like learning another language, you have to learn the grammar and the syntax - and if you get it wrong, the computer isn't very forgiving
 
++++
+###### Thinking like a programmer
+
+![]()
+
+Note:
 * thinking like a programmer (logic)
   * thinking within the restrictions of the language(?)
   * e.g. loops
   * getting stuck in one way of thinking / on one approach, when coming back to it later with a fresh perspective would be a better idea
 
++++
+###### What have I done wrong!?
+
+![bugs](https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif)
+
+Note:
 * can be hard to see what you've done wrong, when what you've done makes sense to you
   * especially when you don't properly understand the syntax
 
