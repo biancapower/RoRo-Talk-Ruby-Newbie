@@ -171,7 +171,7 @@ Note:
 
 ## The obvious
 
-![obvious resources](/images/resources_obvious_2.png)
+![obvious resources](/images/resources_obvious.png)
 
 Note:
 * Google
@@ -183,7 +183,7 @@ Note:
 
 ## Other online sources
 
-![online resources](/images/resources_online)
+![online resources](/images/resources_online.png)
 
 Note:
 * Tutorial Point
@@ -194,7 +194,7 @@ Note:
 
 ## Social
 
-![social resources](/images/resources_social)
+![social resources](/images/resources_social.png)
 
 Note:
 * Meetups
