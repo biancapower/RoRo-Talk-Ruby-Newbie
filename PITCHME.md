@@ -3,7 +3,7 @@
 ## Bianca Power
 BEd(Primary)(Hons), PhD (Education)
 
-![Twitter](/images/twitter.png) @20by31
+![Twitter](/images/twitter.png){:height="10px" width="10px"} @20by31
 ![Github](/images/github.png) biancapower
 ![LinkedIn](/images/linkedin.png) drbiancapower
 
