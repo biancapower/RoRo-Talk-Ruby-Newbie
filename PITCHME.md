@@ -3,8 +3,8 @@
 ## Bianca Power
 BEd(Primary)(Hons), PhD (Education)
 
-![Twitter](https://imageog.flaticon.com/icons/png/512/23/23931.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF) @20by31
-![Github](/images/github.png) biancapower
+![Twitter](/images/twitter.png) @20by31
+![Github](https://github.com/biancapower/RoRo-Talk-Ruby-Newbie/blob/master/images/github.png?raw=true) biancapower
 ![LinkedIn](/images/linkedin.png) drbiancapower
 
 Note:
