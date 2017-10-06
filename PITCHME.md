@@ -124,7 +124,7 @@ Note:
 
 ## Error messages
 
-![rails error](https://i.stack.imgur.com/MyL0V.png)
+![rails error](/images/rails_error.png)
 
 Note:
 [appropriate images of error messages, gifs of panic / eyes glazing over]
