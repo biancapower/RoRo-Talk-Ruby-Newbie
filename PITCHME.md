@@ -7,14 +7,20 @@ BEd(Primary)(Hons), PhD (Education)
 [] Github
 [] LinkedIn
 
+Note:
+* Give a brief spiel about myself
+
 +++
 
-## Why am I here?
+## What I'm going to talk about
 
--
+
 
 Note:
-What this talk is about
+* What this talk is about / what I'll cover in this talk
+* What I'm hoping the audience (beginners & experienced) get out of it
+* This is my experience... [invite audience to share their thoughts and experiences at the end]
+
 
 ---
 
@@ -23,6 +29,9 @@ What this talk is about
 +++
 
 ## Be an active learner
+
+Note:
+Being spoon-fed isn't going to get you there - you have to figure it out for yourself
 
 +++
 
@@ -38,6 +47,12 @@ What this talk is about
 +++
 
 ### Seek to understand, not just copy and paste
+
++++
+
+### Practice
+
+- Practice may not make perfect, but it does mean you won't have to start from scratch again next time
 
 ---
 
@@ -75,6 +90,7 @@ What this talk is about
 - 30 of us in the same class, exposed to the same information - we'll each
 - if you dig deep enough, (pretty much) anyone will know something you don't, or understand something better than you do
   - at the very least there will be something that they can explain to you from a different angle to your own, which will increase your understanding of the topic
+- go to meetups and talks, and actually listen and engage with them
 
 +++
 
