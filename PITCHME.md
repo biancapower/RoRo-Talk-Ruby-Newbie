@@ -186,11 +186,7 @@ Note:
 
 ## Other online sources
 
-![tutorials point](https://www.tutorialspoint.com/green/images/logo.png)
-
-![cheatsheets](https://d1fg1q4hek7kx4.cloudfront.net/small_logo.png)
-
-![codewars](https://shankxwebdev.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-28-at-7.51.42-AM.png)
+![tutorials point](https://www.tutorialspoint.com/green/images/logo.png) ![cheatsheets](https://d1fg1q4hek7kx4.cloudfront.net/small_logo.png) ![codewars](https://shankxwebdev.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-28-at-7.51.42-AM.png)
 
 Note:
 * Tutorial Point
