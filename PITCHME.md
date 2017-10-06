@@ -45,7 +45,7 @@ Consider separating each onto its own slide and adding an appropriate image
 ## A whole new language
 
 +++
-###### Your computer is a grammar nazi
+###### The computer is a grammar nazi
 
 ![grammar nazi owls](https://media.giphy.com/media/JEIRAmTTfUgYE/giphy.gif)
 
@@ -169,6 +169,12 @@ Note:
 
 ## The obvious
 
+![google](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1000px-Google_%22G%22_Logo.svg.png)
+
+![stack overflow](http://www.skrenta.com/images/stackoverflow.jpg)
+
+![ruby docs](/images/ruby_docs_logo.png)
+
 Note:
 * Google
 * Stack Overflow
@@ -179,6 +185,12 @@ Note:
 
 ## Other online sources
 
+![tutorials point](https://www.tutorialspoint.com/green/images/logo.png)
+
+![cheatsheets](https://d1fg1q4hek7kx4.cloudfront.net/small_logo.png)
+
+![codewars](https://shankxwebdev.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-28-at-7.51.42-AM.png)
+
 Note:
 * Tutorial Point
 * Cheatsheets
@@ -187,6 +199,12 @@ Note:
 +++
 
 ## Social
+
+![meetup.com](https://secure.meetupstatic.com/s/img/786824251364989575000/logo/swarm/m_swarm_630x630.png)
+
+![talking](minions_talking.png)
+
+![coder academy](https://res.cloudinary.com/coder-academy/image/upload/q_auto:eco/v1496821297/Coder_Academy-07.png)
 
 Note:
 * Meetups
