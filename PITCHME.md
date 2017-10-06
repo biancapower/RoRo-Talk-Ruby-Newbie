@@ -25,14 +25,14 @@ Note:
 * This is my experience... [invite audience to share their thoughts and experiences at the end]
 
 ---
-# Ruby Newbie - How's it feel?
+# How's it feel?
 
-* challenging
-* empowering
-* exhausting
-* rewarding
-* frustrating
-* fun!
+* Challenging
+* Empowering
+* Exhausting
+* Rewarding
+* Frustrating
+* Fun!
 
 Note:
 Consider separating each onto its own slide and adding an appropriate image
@@ -86,6 +86,8 @@ Note:
 +++
 
 ## Error messages
+
+![rails error](https://i.stack.imgur.com/MyL0V.png)
 
 Note:
 [appropriate images of error messages, gifs of panic / eyes glazing over]
