@@ -171,11 +171,7 @@ Note:
 
 ## The obvious
 
-![google](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1000px-Google_%22G%22_Logo.svg.png)
-
-![stack overflow](http://www.skrenta.com/images/stackoverflow.jpg)
-
-![ruby docs](/images/ruby_docs_logo.png)
+![resources](/images/resources_obvious.png)
 
 Note:
 * Google
