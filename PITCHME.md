@@ -15,9 +15,9 @@ Note:
 ## What I'm going to talk about
 
 * Ruby Newbie - how's it feel?
-* Challenges
-* Resources
-* Educator's perspective
+* Challenges |
+* Resources |
+* Educator's perspective |
 
 Note:
 * What this talk is about / what I'll cover in this talk
@@ -28,11 +28,11 @@ Note:
 # How's it feel?
 
 * Challenging
-* Empowering
-* Exhausting
-* Rewarding
-* Frustrating
-* Fun!
+* Empowering |
+* Exhausting |
+* Rewarding |
+* Frustrating |
+* Fun! |
 
 Note:
 Consider separating each onto its own slide and adding an appropriate image
