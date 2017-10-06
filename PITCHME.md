@@ -67,27 +67,42 @@ Note:
 
 ###### Where do I start?
 
-![lost](https://media.giphy.com/media/mPytjcsG3XS4o/giphy.gif)
-
-+++
-
-* Too many options
-* That'll be easy! (famous last words)
-* I'll just ask Google... ummmmm
+![no idea what I'm doing](https://media.giphy.com/media/xDQ3Oql1BN54c/giphy.gif)
 
 Note:
 * not knowing where to start
 
++++
+
+###### Too many options
+
+![lost](https://media.giphy.com/media/mPytjcsG3XS4o/giphy.gif)
+
+Note:
 * too many options
     * should I make a variable? Should I make a method, a class?
       * I had a lot of trouble with methods and classes
 
++++
+
+###### How hard can that be?
+
+![I don't know](https://media.giphy.com/media/3o6Mbe4WBbmNUo2LLO/giphy.gif)
+
+Note:
 * not really having a good idea of how hard something might be or how long it will take
   * difficult to make informed decisions on which way to go with something, especially when pressed for time
     * encountered when working on personal portfolio project
       * e.g. creating the MVP version of a feature actually took me longer to get working than it did to create what I actually wanted (which I could have skipped straight to)
         * bootstrap carousel -> rotating cube
 
++++
+
+###### I'll just ask Google
+
+![google um](/images/google_um.png)
+
+Note:
 * not knowing enough to know how to ask Google [gif of flashing cursor in google search]
 
 +++
@@ -106,6 +121,8 @@ Note:
 
 ## Practice
 
+![practice](https://media.giphy.com/media/fxICg09En28tW/giphy.gif)
+
 Note:
 * finding a way to practice what we've learned
   * I've found the structure of CA good for that
@@ -116,12 +133,16 @@ Note:
 
 ## Everybody's an expert
 
+![expert](https://media.giphy.com/media/F7yLXA5fJ5sLC/giphy.gif)
+
 Note:
 * too many expert opinions on how to do something, which all conflict... but are all equally valid... confusing the situation in my head (too many cooks)
 
 +++
 
 ## But I want to do good _now_
+
+![helpful](https://media.giphy.com/media/3o6Mb4GkOSnCHKEi64/giphy.gif)
 
 Note:
 * how can I get into contributing to open source as a newbie developer?
