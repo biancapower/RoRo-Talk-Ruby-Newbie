@@ -220,7 +220,10 @@ Note:
 
 ## Be an active learner
 
-![hugh laurie typing](https://media.giphy.com/media/cg5FwpvDmhIcM/giphy.gif) | - Some text here
+![hugh laurie typing](https://media.giphy.com/media/cg5FwpvDmhIcM/giphy.gif)
+- Some text here
+- More
+- Again
 
 Note:
 Being spoon-fed isn't going to get you there - you have to figure it out for yourself
