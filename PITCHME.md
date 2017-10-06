@@ -4,7 +4,7 @@
 BEd(Primary)(Hons), PhD (Education)
 
 ![Twitter](/images/twitter.png) @20by31
-![Github](https://github.com/biancapower/RoRo-Talk-Ruby-Newbie/blob/master/images/github.png?raw=true) biancapower
+![Github](/images/github.png) biancapower
 ![LinkedIn](/images/linkedin.png) drbiancapower
 
 Note:
