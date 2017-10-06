@@ -171,7 +171,7 @@ Note:
 
 ## The obvious
 
-![resources](/images/resources_obvious.png)
+![resources](/images/resources_obvious_2.png)
 
 Note:
 * Google
