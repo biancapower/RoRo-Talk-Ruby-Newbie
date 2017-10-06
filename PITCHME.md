@@ -55,7 +55,7 @@ Note:
 +++
 ###### Thinking like a programmer
 
-![coding dog](https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif)
+![pooh bear thinking](https://media.giphy.com/media/mRh4cLIYhrs9G/giphy.gif)
 
 Note:
 * thinking like a programmer (logic)
@@ -219,12 +219,16 @@ Note:
 
 ## Be an active learner
 
+![hugh laurie typing](https://media.giphy.com/media/cg5FwpvDmhIcM/giphy.gif)
+
 Note:
 Being spoon-fed isn't going to get you there - you have to figure it out for yourself
 
 +++
 
 ### Actually write code
+
+Note:
 * active learning, not passive
   * don't just watch others doing it
   * don't just copy what others have done, create your own version that is in some way different
@@ -241,41 +245,56 @@ Being spoon-fed isn't going to get you there - you have to figure it out for you
 
 ### Practice
 
+Note:
 * Practice may not make perfect, but it does mean you won't have to start from scratch again next time
 
 ---
 
 ## Find your interest
 
+![moss interested it crowd](https://media.giphy.com/media/3oKIPnbKgN3bXeVpvy/giphy.gif)
+
 +++
 
 ### Love to learn
+
+Note:
 * lifelong learner
 * desire to learn
 
 +++
 
-### make it interesting
+### Make it interesting
+
+Note:
 * work on something you have an interest in
 * leveraging the power of gems
 
 +++
 
-### gamification
+### Gamification
+
+Note:
 * Codewars
 
 ---
 
 ## Work with others
 
+![social it crowd](https://media.giphy.com/media/NgAzg4M6O6EtG/giphy.gif)
+
 +++
 ### Teach others
+
+Note:
 * forces you to articulate your understanding, which requires you to think in different ways / think it through, leading to a deeper understanding
 * the person you are teaching it to will ask you questions, leading to avenues of the topic you may not have explored on your own
 
 +++
 
 ### Learn from others
+
+Note:
 * 30 of us in the same class, exposed to the same information - we'll each
 * if you dig deep enough, (pretty much) anyone will know something you don't, or understand something better than you do
   * at the very least there will be something that they can explain to you from a different angle to your own, which will increase your understanding of the topic
@@ -284,6 +303,8 @@ Being spoon-fed isn't going to get you there - you have to figure it out for you
 +++
 
 ### Share with others
+
+Note:
 * slack
   * kind of a more passive version of "teach others"
   * also learning from others, but in a less face-to-face way
@@ -291,6 +312,12 @@ Being spoon-fed isn't going to get you there - you have to figure it out for you
 +++
 
 ### Play (with others)
+
+Note:
 * Codewars
 * (other things like codewars)
 * friendly competition to achieve something
+
+---
+
+## Final Slide
