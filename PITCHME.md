@@ -171,7 +171,7 @@ Note:
 
 ## The obvious
 
-![resources](/images/resources_obvious_2.png)
+![obvious resources](/images/resources_obvious_2.png)
 
 Note:
 * Google
@@ -183,11 +183,7 @@ Note:
 
 ## Other online sources
 
-![tutorials point](https://www.tutorialspoint.com/green/images/logo.png)
-
-![cheatsheets](https://d1fg1q4hek7kx4.cloudfront.net/small_logo.png)
-
-![codewars](https://shankxwebdev.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-28-at-7.51.42-AM.png)
+![online resources](/images/resources_online)
 
 Note:
 * Tutorial Point
@@ -198,11 +194,7 @@ Note:
 
 ## Social
 
-![meetup.com](https://secure.meetupstatic.com/s/img/786824251364989575000/logo/swarm/m_swarm_630x630.png)
-
-![talking](minions_talking.png)
-
-![coder academy](https://res.cloudinary.com/coder-academy/image/upload/q_auto:eco/v1496821297/Coder_Academy-07.png)
+![social resources](/images/resources_social)
 
 Note:
 * Meetups
