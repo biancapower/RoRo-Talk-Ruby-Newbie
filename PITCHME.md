@@ -146,7 +146,7 @@ Note:
 
 +++
 
-## Everybody's an expert
+## Too many experts
 
 ![expert](https://media.giphy.com/media/F7yLXA5fJ5sLC/giphy.gif)
 
