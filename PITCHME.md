@@ -186,7 +186,7 @@ Note:
 ---
 # Resources
 
-Notes:
+Note:
 * So moving on from challenges now, let's talk briefly about resources.
 * This is just my experience and me talking about what I've found useful, and I'd be really interested to hear your suggestions as well
 
