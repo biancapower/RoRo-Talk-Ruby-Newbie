@@ -10,8 +10,12 @@ BEd(Primary)(Hons), PhD (Education)
 ![Website](/images/www.png) http://biancapower.herokuapp.com/
 
 Note:
-* Give a brief spiel about myself
-<!-- FIXME: -->
+<!-- FIXME: Give a brief spiel about myself
+  - who am I
+  - what's my background
+  - what am I doing here
+  - speedsolve cube
+-->
 
 +++
 
