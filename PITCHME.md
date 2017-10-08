@@ -58,7 +58,7 @@ Note:
 +++
 ###### The computer is a grammar nazi
 
-![grammar nazi owls](https://media.giphy.com/media/JEIRAmTTfUgYE/giphy.gif)
+![grammar nazi owls](https://media.giphy.com/media/JEIRAmTTfUgYE/giphy.gif) |
 
 Note:
 * there are words that you recognise but the grammar and the syntax are all different - and if you get it wrong, the computer isn't a very forgiving native
@@ -247,6 +247,9 @@ Note:
 
 # Learning (Ruby)
 
+Note:
+*
+
 +++
 
 ## Be an active learner
@@ -272,7 +275,7 @@ Being spoon-fed isn't going to get you there - you have to figure it out for you
 
 ## Find your interest
 
-![moss interested it crowd](https://media.giphy.com/media/3oKIPnbKgN3bXeVpvy/giphy.gif)
+![moss interested - it crowd](https://media.giphy.com/media/3oKIPnbKgN3bXeVpvy/giphy.gif)
 - Love to learn |
 - Make it interesting |
 - Gamification |
