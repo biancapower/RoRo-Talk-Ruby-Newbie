@@ -62,6 +62,7 @@ Note:
 
 Note:
 * there are words that you recognise but the grammar and the syntax are all different - and if you get it wrong, the computer isn't a very forgiving native
+<!-- FIXME: a tiny typo can cause an error on a different line; one missing bracket and you're hunting for ages -->
 
 +++
 ###### Thinking like a programmer
@@ -71,6 +72,8 @@ Note:
 Note:
 * you also have to learn to think like a programmer, learn to think in the new language that you're learning
 * writing pseudo code is definitely helpful for this, because then you're starting off thinking through what you want to do in your native language and then basically translating it into Ruby, but to do that you still have to get your head around the logic involved and saying it in a way that will make sure the computer has the same interpretation of it as you do, and that can be a real challenge
+<!-- FIXME: you have to stop thinking like a normal person -->
+
 
 +++
 ###### What have I done wrong!?
@@ -195,11 +198,13 @@ Notes:
 
 Note:
 * So I'll start with the obvious resources for any Ruby developer
-<!-- FIXME: -->
   * Google
   * Stack Overflow
+
+  (enough said really)
+
   * Ruby Docs
-    * it's kind of like the error messages... they look scary and at the start you assume you can't understand them, but once you give them a go you'll be surprised
+    * kind of like the error messages... they look scary and at the start you assume you can't understand them, but once you give them a go you'll be surprised
 
 +++
 
@@ -208,9 +213,19 @@ Note:
 ![online resources](/images/resources_online.png)
 
 Note:
-* Tutorial Point
-* Cheatsheets
-* Codewars
+* A couple of other online sources that I've found myself using repeatedly are:
+  * Tutorial Point
+    * which has some great overviews of how to do various things in Ruby (as well as many other languages)
+  * Shortcut Foo's cheatsheets
+    * they have some fantastic cheatsheets on things like Ruby Arrays, Strings, Hashes, and even things like the Atom text editor
+      * they're a great easy reference point for syntax and how to do simple things that particularly as a beginner
+  * Codewars
+    * Codewars is awesome. I know some people hate it but I love it.
+    * For anyone who hasn't come across it before it's basically an online platform where you complete coding challenges in a language of your choice and for each challenge you complete you get points and rank up on the leaderboard.
+    * I've found it's a great way to do more coding than I otherwise might
+      * there are a lot of really interesting challenges up there
+      * and I also probably find ranking up and gaining points a bit more rewarding than I should...
+        * "just gotta do one more to get over the 100 point mark..."
 
 +++
 
@@ -219,9 +234,14 @@ Note:
 ![social resources](/images/resources_social.png)
 
 Note:
-* Meetups
-* Talking to people
-* Coder Academy has been the best resource, for me
+* I think one of the best resources is actually talking to other people and listening to other people
+  * Meetups
+    * I've found going to meetups to be really valuable, even when 90% of the content is over my head, there's still that 10% where I'm at least getting a surface level understanding of it and it's really interesting and motivating to learn more
+  * Talking to people
+    * Talking to people is a great way to find things out, get introduced to new things, get new perspectives on things
+  * Coder Academy
+    * has really been the best resource, for me
+    <!-- FIXME: say more -->
 
 ---
 
