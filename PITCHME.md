@@ -287,7 +287,7 @@ Note:
 
 ## Find your interest
 
-![moss interested - it crowd](https://media.giphy.com/media/3oKIPnbKgN3bXeVpvy/giphy.gif) |
+![moss interested - it crowd](https://media.giphy.com/media/3oKIPnbKgN3bXeVpvy/giphy.gif)
 - Love to learn |
 - Make it interesting |
 - Gamification |
