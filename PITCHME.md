@@ -30,7 +30,9 @@ Note:
 <!-- FIXME:
 - What this talk is about / what I'll cover in this talk
 - What I'm hoping the audience (beginners & experienced) get out of it
-- This is my experience... [invite audience to share their thoughts and experiences at the end] -->
+- This is my experience... [invite audience to share their thoughts and experiences at the end]
+- Educator's perspective = how to be a good learner of Ruby (programming)
+-->
 
 ---
 # How's it feel?
