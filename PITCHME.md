@@ -58,7 +58,7 @@ Note:
 +++
 ###### The computer is a grammar nazi
 
-![grammar nazi owls](https://media.giphy.com/media/JEIRAmTTfUgYE/giphy.gif) |
+![grammar nazi owls](https://media.giphy.com/media/JEIRAmTTfUgYE/giphy.gif)
 
 Note:
 * there are words that you recognise but the grammar and the syntax are all different - and if you get it wrong, the computer isn't a very forgiving native
