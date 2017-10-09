@@ -318,11 +318,11 @@ Note:
 - Play with others |
 
 Note:
-<!-- FIXME: review all of this section -->
 * Teach others
-  * forces you to articulate your understanding, which requires you to think in different ways / think it through, leading to a deeper understanding
-  * the person you are teaching it to will ask you questions, leading to avenues of the topic you may not have explored on your own
-
+  * Teaching others is one of the best ways to get a deeper understanding of something,
+  * because it forces you to articulate your understanding, which requires you to think about in different
+  * In addition to that, the person you are teaching it to will ask you questions, leading to avenues of the topic you may not have explored on your own
+<!-- FIXME: review this section from here -->
 * Learn from others
   * 30 of us in the same class, exposed to the same information - we'll each
   * if you dig deep enough, (pretty much) anyone will know something you don't, or understand something better than you do
