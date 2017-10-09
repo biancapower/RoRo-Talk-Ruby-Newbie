@@ -248,7 +248,8 @@ Note:
 # Learning (Ruby)
 
 Note:
-*
+* My background is in education, so naturally I see things through the eyes of an educator.
+* Looking at my experience learning Ruby, I think there are three core things that make for a good learner in programming.
 
 +++
 
@@ -261,29 +262,42 @@ Note:
 - Practice |
 
 Note:
-Being spoon-fed isn't going to get you there - you have to figure it out for yourself
 
-* Actually write code
-  * active learning, not passive
-    * don't just watch others doing it
-    * don't just copy what others have done, create your own version that is in some way different
+* The first thing is being an active learner.
 
-* Practice
-  * Practice may not make perfect, but it does mean you won't have to start from scratch again next time
+* Being spoon-fed isn't going to get you very far - you have to really get in and do the work and figure things out for yourself
+
+* You need to...
+
+  * Actually write code
+    * not just watch others doing it
+    * and it's not enough to copy what others have done either, you need to actually create your own version, and do something different with it
+
+  * Break stuff
+    <!-- FIXME: refer to article -->
+
+  * Seek to understand
+    * It's really important to actually understand your code. When you copy and paste some code from Stack Overflow or Codepen and it works - that's awesome. But actually going that step further and really understanding how that code works, and ideally being able to reproduce it yourself, takes you a lot further in your learning.
+
+  * Practice
+    * Or in other words, use what you learn
+    * Practice may not make perfect, but it does mean you won't have to start from scratch again next time
 
 +++
 
 ## Find your interest
 
-![moss interested - it crowd](https://media.giphy.com/media/3oKIPnbKgN3bXeVpvy/giphy.gif)
+![moss interested - it crowd](https://media.giphy.com/media/3oKIPnbKgN3bXeVpvy/giphy.gif) |
 - Love to learn |
 - Make it interesting |
 - Gamification |
 
 Note:
 * Love to learn
+  * if you have an interest in learning for its own sake, you're automatically going to be a better learner because ...
   * lifelong learner
   * desire to learn
+  * for me, a love of learning is one of the reasons I'm drawn to programming, because it's an area where you actually do need to keep learning constantly as part of your work
 
 * Make it interesting
   * work on something you have an interest in
