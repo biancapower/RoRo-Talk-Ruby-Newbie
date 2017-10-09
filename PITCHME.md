@@ -294,17 +294,16 @@ Note:
 
 Note:
 * Love to learn
-  * if you have an interest in learning for its own sake, you're automatically going to be a better learner because ...
-  * lifelong learner
-  * desire to learn
-  * for me, a love of learning is one of the reasons I'm drawn to programming, because it's an area where you actually do need to keep learning constantly as part of your work
+  * if you have an interest in learning for its own sake, you're automatically going to be a better learner because you're going to stop looking for a reason to learn about something and just get on and learn it instead <!-- FIXME: word this better -->
+  * for me as a lifelong learner, a love of learning is one of the reasons I'm drawn to programming, because it's an area where you actually do need to keep learning constantly as part of your work
 
 * Make it interesting
-  * work on something you have an interest in
-  * leveraging the power of gems
+  * work on something you have an interest in means that you'll be more engaged with what you're doing, and more likely to follow the sort of tangents that can lead to better understandings and learning how to do really awesome things
+    * leveraging the power of gems is, I think, a fantastic way to make really cool things very early on in your Ruby career. <!-- FIXME: say more -->
 
 * Gamification
-  * Codewars
+  * I guess gamification is really another way to make learning interesting, but I kind of feel like it deserves a point of its own.
+  * The only gamification I really use regularly would be Codewars, but there are plenty of other websites and tools where you can learn or practice coding in a gamified way.
 
 +++
 
@@ -317,6 +316,7 @@ Note:
 - Play with others |
 
 Note:
+<!-- FIXME: review all of this section -->
 * Teach others
   * forces you to articulate your understanding, which requires you to think in different ways / think it through, leading to a deeper understanding
   * the person you are teaching it to will ask you questions, leading to avenues of the topic you may not have explored on your own
